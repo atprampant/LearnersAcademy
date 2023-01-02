@@ -12,12 +12,12 @@
     <title>Title</title>
 </head>
 <body>
-<h1>Displaying Student List</h1>
+<h1>Displaying Teacher List</h1>
 <table border ="1" width="500" align="center">
     <tr bgcolor="00FF7F">
-        <th><b>Student Roll No</b></th>
-        <th><b>Student Name</b></th>
-        <th><b>Class</b></th>
+        <th><b>Teacher ID</b></th>
+        <th><b>Teacher Name</b></th>
+        <th><b>Teacher Age</b></th>
     </tr>
     <%
         List<Teacher> teachers= (List<Teacher>) request.getAttribute("Teacher_List");

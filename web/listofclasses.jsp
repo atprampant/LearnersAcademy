@@ -14,7 +14,7 @@
     <title>Title</title>
 </head>
 <body>
-        <h1>Displaying Student List</h1>
+        <h1>Displaying Class List</h1>
             <table border ="1" width="500" align="center">
                  <tr bgcolor="00FF7F">
                      <th><b>Class ID</b></th>
